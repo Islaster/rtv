@@ -1,38 +1,95 @@
-.App {
+@media (min-width: 1200px) {
+  .container {
+    width: 1140px;
+  }
+  h3 {
+    font-size: 1.75rem;
+  }
+  p {
+    margin-bottom: 1rem;
+    margin-top: 0;
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Poppins;
+}
+
+article,
+aside,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section {
+  display: block;
+}
+
+.movingImg {
+  transition: 0.5s;
+}
+.movingImg:hover {
+  transform: translateY(-10px);
+}
+
+#text-center {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+img {
+  overflow-clip-margin: content-box;
+  overflow: clip;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.blue-text {
+  color: #5b67da;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.darkBlueText {
+  color: #376fd8;
 }
-
-.App-link {
-  color: #61dafb;
+h1 {
+  font-size: 2.5rem;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.darkPurpleBackground {
+  background-color: #283db7;
+}
+.darkGreyBackground {
+  background-color: #2e2929;
+}
+.lightTealText {
+  color: #68d4c6;
+}
+.whiteText {
+  color: #fff;
+}
+.lightTealBackground {
+  background-color: #f5fffd;
+}
+.lightPurpleBorder {
+  border: 5px solid #b0b6ff;
+  border-radius: 10px;
+}
+.tealLineLeftThick {
+  border-left: 8px solid #00bfa6;
+}
+.darkPurpleText {
+  color: #283db7;
+}
+.whiteBackground {
+  background-color: #fff;
+}
+.tealBorder {
+  border: 5px solid #00bfa6;
+  border-radius: 10px;
+}
+.btn-purple {
+  background-color: #6f42c1;
+}
+.purpleBorder {
+  border: 5px solid #5b67da;
+  border-radius: 10px;
 }

@@ -1,0 +1,38 @@
+@media (min-width: 769px) {
+  .whoweare {
+    padding: 50px 0;
+  }
+  #WWArow {
+    margin-top: 30px;
+    flex-direction: row;
+    margin-left: 85px;
+  }
+  .WWAcol {
+    margin-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  #COL {
+    width: 540px;
+  }
+  .testPara {
+    font-size: 15px;
+    padding: 15px 5px 0px 5px;
+  }
+  .sevTestPic {
+    margin-bottom: 15px;
+    width: 100px;
+    border-radius: 50%;
+  }
+  .testVid {
+    width: 50%;
+    margin-bottom: 5px;
+    display: table;
+  }
+}
+
+.whoweare {
+  background-image: url("/public/rtvImages/asset49.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}

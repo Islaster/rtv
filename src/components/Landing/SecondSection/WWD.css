@@ -1,0 +1,61 @@
+@media (min-width: 769px) {
+  .services {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .h1Services {
+    font-size: 2.5rem;
+  }
+
+  .purpleline {
+    background: #b0b6ff;
+    height: 6px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .service-img {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 90%;
+    height: 100px;
+    text-align: left;
+  }
+  #serviceCard {
+    box-shadow: 0px 0px 0px 5px #d4d4d4 inset;
+    border: 10px solid #fff;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    padding: 15px;
+    background-color: #fff;
+    width: 285px;
+    max-width: 25%;
+    height: 343.5px;
+    font-size: 16px;
+  }
+  .h4Card {
+    font-weight: bold;
+    margin-top: 15px;
+    font-size: 1.5rem;
+  }
+  .p-card {
+    font-size: 15px;
+    margin-bottom: 15px;
+  }
+  #center {
+    margin-left: 58px;
+  }
+}
+#serviceCard {
+  text-align: left;
+}
+
+.btn-purple {
+  color: #fff;
+  background-color: #5b67da;
+}
+.btn-purple:hover {
+  color: #fff;
+  background-color: #5b67da;
+}

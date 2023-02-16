@@ -1,0 +1,48 @@
+@media (min-width: 768px) {
+  .lpCon {
+    margin: 0 auto;
+  }
+  .lpImg {
+    width: 200px;
+    margin-top: 15px;
+  }
+  .lpP {
+    font-size: 18px;
+    margin-top: 15px;
+    padding: 15px;
+  }
+  .purpleLineLeftThick {
+    border-left: 8px solid #5b67da;
+  }
+  .lpVideo {
+    height: 300px;
+    margin: 0 auto;
+    display: table;
+  }
+  .lpH2 {
+    margin-top: 5px;
+    margin-bottom: 45px;
+    padding: 15px;
+  }
+  .lpSpan {
+    font-size: 60px;
+    font-weight: 900;
+  }
+  .lpImg2 {
+    width: 200px;
+    text-align: right;
+    margin-top: 15px;
+  }
+}
+.lpCon {
+  background-color: #e6e8ff;
+}
+.lpCol {
+  background-color: #f9f9f9;
+}
+.a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,43 @@
+@media (min-width: 769px) {
+  .volunteer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  #rowVol {
+    flex-direction: row;
+  }
+  .iframe-container > iframe {
+    border: 5px solid #5b67da;
+    width: 529.6px;
+    height: 293.6px;
+  }
+  .volForm {
+    margin-top: 30px;
+    width: 540px;
+  }
+  .volForm > input,
+  .volForm > textarea {
+    margin-bottom: 25px;
+    color: black;
+  }
+  .volForm > button {
+    width: 270px;
+  }
+  .volInfo {
+    margin-top: 15px;
+  }
+  .volInfo > div {
+    margin-top: 15px;
+  }
+  .volpic {
+    width: 50px;
+    height: 50px;
+  }
+  .about-title {
+    font-size: 20px;
+    margin-top: 8%;
+  }
+  .pinfo {
+    font-size: 15px;
+  }
+}

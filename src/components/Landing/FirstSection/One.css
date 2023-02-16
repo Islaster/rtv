@@ -1,0 +1,32 @@
+@media (min-width: 769px) {
+  .headerVid {
+    margin-top: 60px;
+    margin-bottom: 45px;
+    width: 540px;
+    height: 308.438px;
+  }
+  #headerContent {
+    padding-top: 150px;
+  }
+  .pHeader {
+    font-size: 60px;
+    font-weight: 600;
+    margin-top: 30px;
+  }
+  .rowMargin {
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+  .h5Header {
+    margin-bottom: 30px;
+    font-weight: 500;
+    font-size: 20px;
+  }
+}
+
+.HeaderSection {
+  background-image: url("/public/rtvImages/rtvHeaderNew.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}

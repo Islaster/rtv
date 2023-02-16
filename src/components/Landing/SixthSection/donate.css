@@ -1,0 +1,10 @@
+@media (min-width: 769px) {
+  .donate {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .donateImg {
+    height: 100px;
+    border-radius: 15px;
+  }
+}
