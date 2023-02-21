@@ -1,0 +1,17 @@
+@media (min-width: 769px) {
+  .abHRow {
+    padding: 50 0 25 0px;
+  }
+  .abHP {
+    text-align: left;
+    font-size: 60px;
+    font-weight: 600;
+  }
+  .abHH5 {
+    margin-bottom: 30px;
+    text-align: left;
+  }
+  .abHeader {
+    padding-top: 200px;
+  }
+}

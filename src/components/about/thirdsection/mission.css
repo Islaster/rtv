@@ -1,0 +1,26 @@
+@media (min-width: 1200px) {
+  .misCont {
+    width: 1140px;
+    margin-bottom: 60px;
+  }
+  .mission {
+    padding: 30px 0px;
+  }
+  .mish2 {
+    margin-bottom: 15px;
+  }
+  .mish4 {
+    padding: 15px;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .misbh4 {
+    padding: 15px;
+    text-align: center;
+  }
+}
+.mission {
+  background-image: url("/public/rtvImages/asset50.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

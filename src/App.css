@@ -93,3 +93,12 @@ h1 {
   border: 5px solid #5b67da;
   border-radius: 10px;
 }
+.text-left {
+  text-align: left;
+}
+.boldText {
+  font-weight: bold;
+}
+.tealTextDark {
+  color: #2c716d;
+}
