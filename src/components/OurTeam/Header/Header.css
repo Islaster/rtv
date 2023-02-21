@@ -1,0 +1,17 @@
+@media (min-width: 1200px) {
+  .ot {
+    padding-top: 150px;
+  }
+  .otrow {
+    padding: 50px 0px 25px 0px;
+  }
+  .otP {
+    text-align: left;
+    font-size: 60px;
+    font-weight: 600;
+  }
+  .oth5 {
+    margin-bottom: 30px;
+    text-align: left;
+  }
+}

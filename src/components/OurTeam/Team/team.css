@@ -1,0 +1,23 @@
+@media (min-width: 769px) {
+  .team {
+    margin-top: 30px;
+  }
+  .colTeam {
+    padding: 15px;
+    margin: 15px 0px;
+    width: 540px;
+  }
+  #imgTeam {
+    float: left;
+    width: 100px;
+    margin-right: 15px;
+  }
+  .teamName {
+    font-size: 30px;
+  }
+  .teamRow {
+    max-width: 1140px;
+    justify-content: center;
+    margin-left: 80px;
+  }
+}

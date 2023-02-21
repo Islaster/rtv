@@ -102,3 +102,14 @@ h1 {
 .tealTextDark {
   color: #2c716d;
 }
+.purpleSurroundingCircle {
+  border: 5px solid #5b67da;
+  border-radius: 50%;
+}
+.tealTextBright {
+  color: #006b66;
+}
+.tealSurroundingCircle {
+  border: 5px solid #00bfa6;
+  border-radius: 50%;
+}
