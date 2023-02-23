@@ -7,6 +7,7 @@ import Donate from "../../components/Landing/SixthSection/MintBackground";
 import HelpingHand from "../../components/Landing/ThirdSection/HelpingHand";
 import Volunteer from "../../components/Landing/Volunteer/Volunteer";
 export default function Landing() {
+  document.title = "Retraining the Village";
   return (
     <>
       <One />

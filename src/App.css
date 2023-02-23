@@ -113,3 +113,12 @@ h1 {
   border: 5px solid #00bfa6;
   border-radius: 50%;
 }
+.lightPurpleBackground {
+  background-color: #e6e8ff;
+}
+.lightPurpleText {
+  color: #e6e8ff;
+}
+.purpleLineLeftThick {
+  border-left: 8px solid #5b67da;
+}

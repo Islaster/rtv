@@ -4,6 +4,7 @@ import Values from "../../components/about/secondsection/values";
 import Mission from "../../components/about/thirdsection/mission";
 
 export default function AboutUs() {
+  document.title = "About Us";
   return (
     <>
       <Header />

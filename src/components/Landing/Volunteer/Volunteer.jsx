@@ -17,9 +17,9 @@ export default function Volunteer() {
                 src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d810614.9085363843!2d-122.149613!3d37.473364!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fbc9fc8298749%3A0x6d9926bc340f6422!2s2399%20Menalto%20Ave%2C%20East%20Palo%20Alto%2C%20CA%2094303!5e0!3m2!1sen!2sus!4v1674778968955!5m2!1sen!2sus"
                 width="600"
                 height="450"
-                allowfullscreen=""
+                allowFullScreen=""
                 loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade"
+                referrerPolicy="no-referrer-when-downgrade"
               ></iframe>
             </div>
           </div>
@@ -109,16 +109,14 @@ export default function Volunteer() {
             <p className="about-title">
               <b>Email Us</b>
             </p>
-            <p>
+            <p className="pinfo">
               <a
                 href="mailto:halleycrumb@retrainingthevillage.org"
                 target="_blank"
                 rel="noreferrer"
                 style={{ textDecoration: "none", color: "#376fd8" }}
               >
-                <p className="pinfo">
-                  <b>halleycrumb@retrainingthevillage.org</b>
-                </p>
+                <b>halleycrumb@retrainingthevillage.org</b>
               </a>
             </p>
             <p className="purpleline"></p>

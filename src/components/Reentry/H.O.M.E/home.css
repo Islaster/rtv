@@ -1,0 +1,29 @@
+.hoH3 {
+  padding: 15px;
+  padding-top: 45px;
+  line-height: 2em;
+  color: #fff;
+}
+.hoSpan {
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 2em;
+}
+.hoRow {
+  max-width: 1140px;
+}
+.hoImg {
+  width: 90%;
+  margin-bottom: 15px;
+}
+.hoCol {
+  padding: 30px;
+}
+.hoP {
+  font-size: 18px;
+  margin-top: 15px;
+  padding: 15px;
+}
+#hoCont {
+  margin-left: 160px;
+}

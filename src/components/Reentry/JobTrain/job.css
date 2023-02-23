@@ -1,0 +1,14 @@
+.jobRow {
+  padding-bottom: 60px;
+  padding-top: 45px;
+}
+.jobCol {
+  padding: 15px;
+}
+.jobP {
+  font-size: 16px;
+}
+.jobImg {
+  width: 100px;
+  border-radius: 50%;
+}

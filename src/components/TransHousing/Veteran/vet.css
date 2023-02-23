@@ -1,0 +1,25 @@
+@media (min-width: 769px) {
+  .vet {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .vRow {
+    margin-bottom: 45px;
+    padding-top: 30px;
+    max-width: 1140px;
+  }
+  .vetImg {
+    width: 255px;
+  }
+  .vetH3 {
+    text-align: left;
+    line-height: 1.5em;
+    margin-top: 15px;
+  }
+}
+
+.vet {
+  background-image: url("/public/rtvImages/asset57.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,51 @@
+@media (min-width: 769px) {
+  .rtCont {
+    max-width: 1140px;
+  }
+  .rtCol {
+    padding-bottom: 30px;
+  }
+  .rtH3 {
+    padding: 15px;
+    padding-top: 45px;
+    line-height: 1.5em;
+    color: #fff;
+  }
+  .rtSpan {
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 1.5em;
+  }
+  .rtCol2 {
+    padding-top: 30px;
+  }
+  .rtH2 {
+    margin-top: 5px;
+    margin-bottom: 45px;
+    padding: 15px;
+    line-height: 1.5em;
+    color: #fff;
+  }
+  .rtSpan2 {
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 1.5em;
+  }
+  .rtImg2 {
+    width: 200px;
+    text-align: right;
+    margin-top: 30px;
+  }
+  .rtP2 {
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 45px;
+    padding: 15px;
+  }
+}
+
+.transHousBack {
+  background-image: url("/public/rtvImages/asset56.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

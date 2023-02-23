@@ -1,0 +1,26 @@
+.henry {
+  background-image: url(/public/rtvImages/asset49.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 30px 0px;
+}
+.henRow {
+  margin-bottom: 45px;
+  padding-top: 30px;
+  margin-left: 50px;
+}
+.henH4 {
+  text-align: left;
+  line-height: 1.5em;
+  margin-top: 10px;
+}
+.henA {
+  color: #007bff;
+  text-decoration: none;
+}
+.henA:hover {
+  text-decoration: underline;
+}
+.henImg {
+  width: 100%;
+}

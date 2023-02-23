@@ -1,0 +1,13 @@
+@media (min-width: 769px) {
+  .thHeaderRow {
+    padding: 50px 0px 25px 0px;
+  }
+  .thHeaderP {
+    text-align: left;
+    font-size: 60px;
+    font-weight: 600;
+  }
+  .transSec {
+    padding-top: 150px;
+  }
+}
